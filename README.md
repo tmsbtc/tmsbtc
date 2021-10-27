@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmsbtc.
 - 👀 I’m interested in bitcoin.
-- 🌱 I’m currently learning Java, Spring Boot, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, PostgreSQL, and Unit Testing (JUnit).
+- 🌱 I’m currently learning Java, Spring Boot, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, and Unit Testing (JUnit).
 - 💞️ I’m looking to collaborate on bitcoin projects.
 - 📫 How to reach me - DM me on Twitter @tmsbtc.
 
