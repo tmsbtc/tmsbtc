@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmsbtc.
 - 👀 I’m interested in bitcoin.
-- 🌱 Although I have a background in Java, PostgreSQL, HTML, CSS, and JavaScript (Vue.js), I’m currently expanding my knowledge to C# and AWS Cloud Development.
+- 🌱 My development background includes experience with Java, PostgreSQL, HTML, CSS, JavaScript (Vue.js and Node.js), C#/.NET, and AWS Cloud Development.
 - 💞️ I’m looking to collaborate on bitcoin projects.
 - 📫 How to reach me - DM me on Twitter @tmsbtc.
 
